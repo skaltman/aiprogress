@@ -14,3 +14,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.0.2
 Depends: 
     R (>= 2.10)
+URL: https://github.com/skaltman/aiprogress
+BugReports: https://github.com/skaltman/aiprogress/issues
